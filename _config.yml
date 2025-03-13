@@ -20,7 +20,7 @@
 
 # Setup
 title: ononoki's page
-url: https://ononoki0117.github.io/
+url: "https://ononoki0117.github.io/"
 paginate: 1
 baseurl: ""
 permalink: pretty
