@@ -1,17 +1,17 @@
 ---
 ---
 
-@use "variables";
-@use "base";
-@use "type";
-@use "syntax";
-@use "code";
-@use "layout";
-@use "masthead";
-@use "posts";
-@use "pagination";
-@use "message";
-@use "toc";
+@import "variables";
+@import "base";
+@import "type";
+@import "syntax";
+@import "code";
+@import "layout";
+@import "masthead";
+@import "posts";
+@import "pagination";
+@import "message";
+@import "toc";
 
 // Sass for creating the swatches
 .colors {
