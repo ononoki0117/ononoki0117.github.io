@@ -22,7 +22,7 @@
 title: ononoki's page
 url: "https://ononoki0117.github.io/"
 paginate: 1
-baseurl: ""
+baseurl: 
 permalink: pretty
 
 # Gems
