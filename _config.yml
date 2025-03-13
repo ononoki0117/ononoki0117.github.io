@@ -20,7 +20,7 @@
 
 # Setup
 title: ononoki's page
-url: http://ononoki0117.github.io
+url: https://ononoki0117.github.io/
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -57,7 +57,7 @@ author:
   email: ononoki0117@gmail.com
 
 # Custom vars
-version: 3.0.0
+version: 0.0.1
 
 # Navbar page list
 nav:
